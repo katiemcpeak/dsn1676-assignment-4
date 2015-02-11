@@ -1,0 +1,18 @@
+h1 {
+    color: #9932CC;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+dt {
+    font-weight: bold;
+    color: white;
+}
+
+dl {
+    font-weight: bold;
+    color: purple;
+}
